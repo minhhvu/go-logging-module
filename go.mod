@@ -1,4 +1,4 @@
-module go-logging-module
+module github.com/minhhvu/go-logging-module
 
 go 1.15
 
