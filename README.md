@@ -1,8 +1,8 @@
-#Go Logging Module
+# Go Logging Module
 
-##Current version: 1.0
+## Current version: 1.0
 
-##Introduction
+## Introduction
 This Go lang module was developed as a standard logging module in the go project. The log will be outputted as the same
 as the api-logging-framework (in Java). 
 
@@ -12,7 +12,7 @@ log. The **log level** can be one of 6 types: info, debug, trace, warn, error, a
 
 By default, the **output format** of log is set up as JSON type. However, it can be configured to FLAT type.
 
-##How to Use
+## How to Use
 To import this module, developers must first install the module by configuring on the go.mod file
 
 Next, you import the module in your Go file and name the module to user it later, using this statement:
